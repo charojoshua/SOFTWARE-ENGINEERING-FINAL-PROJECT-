@@ -1,2 +1,2 @@
-# SOFTWARE-ENGINEERING-FINAL-PROJECT-
-e farming project repo
+# charojoshuaSWrepo
+ Charo joshua repository for final project Software Engineering 
